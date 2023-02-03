@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kpost801
-- 👀 I’m interested in hunting,fishing, sports
-- 🌱 I’m currently learning data structures/algorithms at Weber state University
+- 👋 Hi, I’m kaleb post
+- 👀 I’m interested in fishing, sports, and video games
+- 🌱 I’m currently studying computer science at Weber state University
 - 💞️ I’m looking to collaborate..
 - 📫 How to reach me ... kalebpost8@gmail.com
 
