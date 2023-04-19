@@ -1,7 +1,6 @@
 - 👋 Hi, I’m kaleb post
-- 👀 I’m interested in fishing, sports, and video games
+- 👀 I’m interested in fishing, sports, and video games, snowboarding
 - 🌱 I’m currently studying Full stack at Weber state University
-- 💞️ I’m looking to collaborate..
 - 📫 How to reach me ... kalebpost8@gmail.com
 
 <!---
